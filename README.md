@@ -35,5 +35,3 @@ The euro-area banking sector has shown:
 - Profitability strongly shaped by ECB monetary policy.  
 
 While overall convergence is visible, specific countries (e.g., Greece, Cyprus, Ireland) reveal structural weaknesses and divergent resilience levels.  
-
-This project is licensed under the terms of the MIT License.  
